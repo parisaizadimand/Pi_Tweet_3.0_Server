@@ -1,0 +1,6 @@
+usersDirectory=./src/main/resources/Info/Users
+tweetsDirectory=./src/main/resources/Info/Tweets
+groupsDirectory=./src/main/resources/Info/Groups
+groupChatsDirectory=./src/main/resources/Info/GroupChats
+messagesDirectory=./src/main/resources/Info/Messages
+botsDirectory=./src/main/resources/Info/Bots

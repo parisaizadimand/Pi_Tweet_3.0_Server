@@ -1,0 +1,12 @@
+logIn=src/main/resources/config/textsConfig/enteringTexts/logIn
+signUp=src/main/resources/config/textsConfig/enteringTexts/signUp
+showProfile=src/main/resources/config/textsConfig/explorerTexts/showProfile
+explorer=src/main/resources/config/textsConfig/explorerTexts/explorer
+deleteAccount=src/main/resources/config/textsConfig/settingTexts/deleteAccount
+privacySettings=src/main/resources/config/textsConfig/settingTexts/privacySettings
+mainMenu=src/main/resources/config/textsConfig/mainMenu
+showTweet=src/main/resources/config/textsConfig/showTweet
+editInfo=src/main/resources/config/textsConfig/myPageTexts/editInfo
+forwardTweet=src/main/resources/config/textsConfig/myPageTexts/forwardTweet
+myPage=src/main/resources/config/textsConfig/myPageTexts/myPage
+messaging=src/main/resources/config/textsConfig/messagesTexts/messaging

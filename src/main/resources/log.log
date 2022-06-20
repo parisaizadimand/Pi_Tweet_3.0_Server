@@ -1,0 +1,2 @@
+2022-06-20 22:41:06.701 [main] INFO  ir.pi.project.server.main - server started
+2022-06-20 22:41:06.731 [main] INFO  ir.pi.project.server.controller.BotHandler - starting bots

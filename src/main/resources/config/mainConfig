@@ -1,0 +1,6 @@
+resourcesPath=src/main/resources/
+addresses=src/main/resources/config/addresses
+texts=src/main/resources/config/texts
+limits=src/main/resources/config/otherConfigs/limits
+showChatConfig=src/main/resources/config/otherConfigs/showChatConfig
+socketConfig=src/main/resources/config/socketConfig

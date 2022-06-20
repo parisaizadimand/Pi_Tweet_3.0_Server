@@ -1,0 +1,6 @@
+notFound="You can not forward for yourself!\nYou can save it instead!"
+ff=At least one of you need to be following the other one!
+itsU=User can not be found!
+forwardedFrom=Forwarded tweet from:
+forwarded=Forwarded Successfully!
+emptyUsername=Username field is empty!

@@ -1,0 +1,5 @@
+takenUsername=User Name is already taken!
+takenEmail=There is already an account with this Email!
+takenPhoneNumber=There is already an account with this Phone Number!
+emptyField=Fields can not be empty!
+saved=Saved!
